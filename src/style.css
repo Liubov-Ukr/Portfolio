@@ -73,3 +73,29 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+@media (max-width: 576px) {
+  h1 {
+    font-size: 50px;
+    line-height: 1.2;
+  }
+  h2 {
+    font-size: 36px;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    padding: 5px 5px;
+  }
+  .contact-link,
+  .launch {
+    display: block;
+    text-align: center;
+    margin: 20px 10px;
+  }
+  h3 {
+    margin: 0 auto;
+  }
+  .images-about {
+    margin: 10px auto;
+  }
+}
