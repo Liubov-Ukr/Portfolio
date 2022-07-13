@@ -81,12 +81,13 @@ p {
   h2 {
     font-size: 36px;
     text-align: center;
+    margin-top: -5px;
   }
   p {
     text-align: center;
     padding: 5px 5px;
   }
-  .contact-link,
+
   .launch {
     display: block;
     text-align: center;
